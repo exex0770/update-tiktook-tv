@@ -1,6 +1,11 @@
 {
-  "version_code": 20,
-  "update_message": "┌─────────────────────────────┐\n│        🚀 إصدار جديد        │\n├─────────────────────────────┤\n│ ✨ تحسين سرعة التطبيق        │\n│ 🎨 واجهة أكثر احترافية       │\n│ 🛠 إصلاح الأخطاء والمشاكل     │\n│ 🔒 تحسين الأمان والاستقرار    │\n│ 📺 تجربة مشاهدة أفضل         │\n└─────────────────────────────┘\n\nاضغط على (تحديث الآن) للحصول على أحدث إصدار.",
-  "download_url": "https://example.com/app.apk",
-  "force_update": true
+  "ShowDate": "22/12/25",
+  "Title": "Update Available",
+  "Subtitle": "v4.5 • Critical Patch",
+  "WhatsNew": "• Upgrading Game Servers\n• Fixing Login Issues\n• New UI Added\n• Vpn Proxy Removed\n • Dialog By DPMods",
+  "Button1": "Update",
+  "Button1Url": "https://t.me/dp_mods",
+  "2Button": true,
+  "ShowTimer": true,
+  "TargetTime": "2025-12-30 18:00:00"
 }
