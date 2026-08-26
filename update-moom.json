@@ -1,17 +1,16 @@
 {
-  "update": {
-    "app_name": "MOOM",
-    "app_image": "https://up6.cc/2026/08/178777611639411.png",
-    "message": "تم إصدار تحديث جديد للتطبيق. يرجى تحديث التطبيق للحصول على آخر التحسينات والإصلاحات.",
-    "buttons": [
-      {
-        "title": "التحديث عبر Telegram",
-        "url": "https://t.me/MOOMSPORT"
-      },
-      {
-        "title": "التحديث من الموقع الرسمي",
-        "url": "https://example.com/download"
-      }
-    ]
+  "version": "2.7.0",
+  "force_update": true,
+  "title": "تحديث جديد متوفر",
+  "app_name": "MOOM",
+  "app_image": "https://up6.cc/2026/08/178777611639411.png",
+  "message": "يتوفر إصدار جديد من التطبيق، قم بالتحديث للحصول على أحدث الميزات والتحسينات.",
+  "telegram": {
+    "title": "التحديث عبر Telegram",
+    "url": "https://t.me/MOOMSPORT"
+  },
+  "website": {
+    "title": "الموقع الرسمي",
+    "url": "https://example.com/download"
   }
 }
